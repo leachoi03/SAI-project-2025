@@ -1,1 +1,1 @@
-Sejong AI club's Github example
+Sejong AI club's personal Github example
